@@ -6,6 +6,6 @@
 - [x] Static Web Sites vs Dynamic Web Apps
 - [x] Event listeners
 - [x] State
-- [] Conditional rendering
+- [ ] Conditional rendering
 - [ ] Forms
 - [ ] Side effects
