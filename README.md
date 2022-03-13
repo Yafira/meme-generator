@@ -2,10 +2,10 @@
 
 <h3>Objectives:</h3>
 
-- [ ] Creating interactive web apps in React
-- [ ] Static Web Sites vs Dynamic Web Apps
-- [ ] Event listeners
-- [ ] State
-- [ ] Conditional rendering
+- [x] Creating interactive web apps in React
+- [x] Static Web Sites vs Dynamic Web Apps
+- [x] Event listeners
+- [x] State
+- [] Conditional rendering
 - [ ] Forms
 - [ ] Side effects
