@@ -7,5 +7,5 @@
 - [x] Event listeners
 - [x] State
 - [x] Conditional rendering
-- [ ] Forms
+- [x] Forms
 - [ ] Side effects
