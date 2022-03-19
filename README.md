@@ -8,4 +8,4 @@
 - [x] State
 - [x] Conditional rendering
 - [x] Forms
-- [ ] Side effects
+- [x] Side effects
