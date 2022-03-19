@@ -4,7 +4,8 @@ export default function Meme() {
 	const [meme, setMeme] = React.useState({
 		topText: '',
 		bottomText: '',
-		randomImage: 'http://i.imgflip.com/1bij.jpg',
+		randomImage:
+			'https://ichef.bbci.co.uk/news/976/cpsprodpb/F1F2/production/_118283916_b19c5a1f-162b-410b-8169-f58f0d153752.jpg',
 	});
 	const [allMemes, setAllMemes] = React.useState([]);
 
